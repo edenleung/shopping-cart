@@ -1,0 +1,19 @@
+{
+    "name": "xiaodi/shopping-cart",
+    "description": "shopping cart package",
+    "license": "MIT",
+    "authors": [{
+        "name": "xiaodi",
+        "email": "liangjinbiao@live.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "5.1.41"
+    },
+    "autoload": {
+        "psr-4": {
+            "xiaodi\\ShoppingCart\\": "src"
+        }
+    },
+    "require-dev": {}
+}
